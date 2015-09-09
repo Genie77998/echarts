@@ -1,0 +1,40 @@
+{
+    "name": "Grunt",
+    "version": "1.0.0",
+    "author": "wangwenjun",
+    "private": true,
+    "dependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Genie77998/echarts.git"
+    },
+    "devDependencies": {
+        "connect-livereload": "latest",
+        "grunt": "latest",
+        "grunt-cmd-transport": "latest",
+        "grunt-contrib-clean": "latest",
+        "grunt-contrib-concat": "latest",
+        "grunt-contrib-connect": "latest",
+        "grunt-contrib-copy": "latest",
+        "grunt-contrib-cssmin": "latest",
+        "grunt-contrib-htmlmin": "latest",
+        "grunt-contrib-imagemin": "latest",
+        "grunt-contrib-jshint": "latest",
+        "grunt-contrib-less": "latest",
+        "grunt-contrib-uglify": "latest",
+        "grunt-contrib-watch": "latest",
+        "grunt-usemin": "latest",
+        "grunt-yui-compressor": "latest",
+        "grunt-jsdoc": "latest",
+        "jpegtran-bin": "latest",
+        "matchdep": "latest",
+        "maxmin": "latest",
+        "minify": "latest",
+        "modjs": "latest",
+        "ngmshell": "latest",
+        "grunt-rev": "latest",
+        "shelljs": "latest",
+        "grunt-md5": "latest",
+        "grunt-contrib-compass" : "latest"
+    }
+}
